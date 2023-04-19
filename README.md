@@ -11,7 +11,7 @@
 
 The task is to write a Python Script that will accept a string as encrypted text and then the program will decrypt it using the following character substitute:
 
-**'a' = *, 'e' = & , 'i' = # , 'o' = + 'u' = !**
+**_'a' = *, 'e' = & , 'i' = # , 'o' = + 'u' = !_**
 
 ## About the Program
 **STEPS**
@@ -26,19 +26,21 @@ The task is to write a Python Script that will accept a string as encrypted text
 
     ``for i in range(len(encrypted_input)):``
 
-    **NOTE :** 'encrypted_input' is your variable.
+    **NOTE :** ``encrypted_input`` is your variable.
 
-3. Use 'elif statement' for algorithm with many variables.
+3. Use ``elif statement`` for algorithm with many variables.
 
-4. Print the decrypted output.
+4. Print the decrypted output using ``print()``.
 
 ## Running the Program
 
+1. Input an encrypted word, phrase, sentence, or paragraph that contains symbols **_'*', '&', '#', '+',_** and **_'!'_**.
 
+2. The program will decrypt the message inputted according to the corresponding alphabet.
 
 ### Contact
 Zemerelin Iris M. Membrere - _zemerelinmembrere@gmail.com_
 
-**Project Link :** 
+**Project Link :** https://github.com/zem464/Assignment-2_-2_Decryption.git
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
