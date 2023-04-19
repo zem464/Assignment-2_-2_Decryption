@@ -27,3 +27,5 @@ for i in range(len(encrypted_input)):
         decrypted_output += 'u'
     else:
         decrypted_output += encrypted_input[i]
+# Print the decrypted input
+print(decrypted_output)
