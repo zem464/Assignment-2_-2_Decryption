@@ -5,7 +5,7 @@
 # Problem 2 - Decryption
 
 # Get an encrypted input from the user
-encrypted_input = input("Input the encrypted text: ").lower()
+encrypted_input = input("\033[31m\033[1mInput the encrypted text: \033[35m\033[0m").lower()
 decrypted_output = ""
 
 # Check for the corresponding symbol to substitute
@@ -28,4 +28,4 @@ for i in range(len(encrypted_input)):
     else:
         decrypted_output += encrypted_input[i]
 # Print the decrypted input
-print(decrypted_output)
+print("\033[31m\033[1mDecryption: \033[35m\033[0m", decrypted_output)
