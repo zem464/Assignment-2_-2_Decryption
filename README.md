@@ -1,4 +1,4 @@
-# Assignment-2_-2_Decryption
+# Assignment-3_-2_Decryption
 
   **Built for :** Subject assignment for Object Oriented Programming.
 
@@ -41,6 +41,6 @@ The task is to write a Python Script that will accept a string as encrypted text
 ### Contact
 Zemerelin Iris M. Membrere - _zemerelinmembrere@gmail.com_
 
-**Project Link :** https://github.com/zem464/Assignment-2_-2_Decryption.git
+**Project Link :** https://github.com/zem464/Assignment-3_-2_Decryption.git
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
